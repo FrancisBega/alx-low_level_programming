@@ -3,9 +3,9 @@
 
 
 /**
-
- * print_alphabet - Entry Point
-
+ * print_alphabet - ENtry Point
+ *
+ * Return: Alwasys Return 0
  */
 
 
@@ -28,8 +28,8 @@ void print_alphabet(void)
 
 	}
 
-	_putchar('\n');
+_putchar('\n');
 
-        return 0;
+return (0);
 
 }
